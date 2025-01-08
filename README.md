@@ -1,4 +1,4 @@
 # tp-branche 
 ```md
-##Ceci est un TP Git et Python
+##Ceci est un TP Git et Python pour apprendre
 ```
