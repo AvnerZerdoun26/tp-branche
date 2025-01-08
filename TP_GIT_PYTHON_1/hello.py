@@ -1,5 +1,3 @@
-python
-print("Hello ESNL")
 
 python
 def ecrire(chaine):
